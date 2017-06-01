@@ -1,0 +1,17 @@
+body{
+	background-color: lightgreen;
+}
+
+h1 {
+	font-family: Noto Sans;
+	font-weight: bold;
+}
+
+p{
+	color: white;
+	font-family: Noto Sans;
+}
+
+#kiwis1, #kiwis2, #kiwis {
+	display: none;
+}
